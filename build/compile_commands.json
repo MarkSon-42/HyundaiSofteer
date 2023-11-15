@@ -1,0 +1,26 @@
+[
+{
+  "directory": "/Users/macapple/Documents/Codes/HyundaiSofteer/build",
+  "command": "/usr/bin/clang++   -g -std=gnu++14 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.0.sdk -mmacosx-version-min=13.5 -o CMakeFiles/HyundaiSofteer.dir/CodeTree/최장_연속_부분_수열/연속되는_수_4.cpp.o -c \"/Users/macapple/Documents/Codes/HyundaiSofteer/CodeTree/최장 연속 부분 수열/연속되는 수 4.cpp\"",
+  "file": "/Users/macapple/Documents/Codes/HyundaiSofteer/CodeTree/최장 연속 부분 수열/연속되는 수 4.cpp",
+  "output": "CMakeFiles/HyundaiSofteer.dir/CodeTree/최장_연속_부분_수열/연속되는_수_4.cpp.o"
+},
+{
+  "directory": "/Users/macapple/Documents/Codes/HyundaiSofteer/build",
+  "command": "/usr/bin/clang++   -g -std=gnu++14 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.0.sdk -mmacosx-version-min=13.5 -o CMakeFiles/HyundaiSofteer.dir/CodeTree/최장_연속_부분_수열/T를_초과하는_연속_부분_수열.cpp.o -c \"/Users/macapple/Documents/Codes/HyundaiSofteer/CodeTree/최장 연속 부분 수열/T를 초과하는 연속 부분 수열.cpp\"",
+  "file": "/Users/macapple/Documents/Codes/HyundaiSofteer/CodeTree/최장 연속 부분 수열/T를 초과하는 연속 부분 수열.cpp",
+  "output": "CMakeFiles/HyundaiSofteer.dir/CodeTree/최장_연속_부분_수열/T를_초과하는_연속_부분_수열.cpp.o"
+},
+{
+  "directory": "/Users/macapple/Documents/Codes/HyundaiSofteer/build",
+  "command": "/usr/bin/clang++   -g -std=gnu++14 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.0.sdk -mmacosx-version-min=13.5 -o CMakeFiles/HyundaiSofteer.dir/CodeTree/배열_기록/만나는_그_순간.cpp.o -c \"/Users/macapple/Documents/Codes/HyundaiSofteer/CodeTree/배열 기록/만나는 그 순간.cpp\"",
+  "file": "/Users/macapple/Documents/Codes/HyundaiSofteer/CodeTree/배열 기록/만나는 그 순간.cpp",
+  "output": "CMakeFiles/HyundaiSofteer.dir/CodeTree/배열_기록/만나는_그_순간.cpp.o"
+},
+{
+  "directory": "/Users/macapple/Documents/Codes/HyundaiSofteer/build",
+  "command": "/usr/bin/clang++   -g -std=gnu++14 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.0.sdk -mmacosx-version-min=13.5 -o \"CMakeFiles/HyundaiSofteer.dir/CodeTree/최장_연속_부분_수열/T를_초과하는_연속_부분_수열(RE).cpp.o\" -c \"/Users/macapple/Documents/Codes/HyundaiSofteer/CodeTree/최장 연속 부분 수열/T를 초과하는 연속 부분 수열(RE).cpp\"",
+  "file": "/Users/macapple/Documents/Codes/HyundaiSofteer/CodeTree/최장 연속 부분 수열/T를 초과하는 연속 부분 수열(RE).cpp",
+  "output": "CMakeFiles/HyundaiSofteer.dir/CodeTree/최장_연속_부분_수열/T를_초과하는_연속_부분_수열(RE).cpp.o"
+}
+]

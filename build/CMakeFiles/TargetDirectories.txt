@@ -1,0 +1,3 @@
+/Users/macapple/Documents/Codes/HyundaiSofteer/build/CMakeFiles/HyundaiSofteer.dir
+/Users/macapple/Documents/Codes/HyundaiSofteer/build/CMakeFiles/edit_cache.dir
+/Users/macapple/Documents/Codes/HyundaiSofteer/build/CMakeFiles/rebuild_cache.dir

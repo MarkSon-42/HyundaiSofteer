@@ -39,7 +39,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "HyundaiSofteer::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-HyundaiSofteer-Debug-3d3480335ba930ca2b26.json",
+					"jsonFile" : "target-HyundaiSofteer-Debug-7761af807bed414b9457.json",
 					"name" : "HyundaiSofteer",
 					"projectIndex" : 0
 				}
@@ -49,7 +49,7 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "/Users/macapple/Documents/Codes/HyundaiSofteer/cmake-build-debug",
+		"build" : "/Users/macapple/Documents/Codes/HyundaiSofteer/build",
 		"source" : "/Users/macapple/Documents/Codes/HyundaiSofteer"
 	},
 	"version" : 
