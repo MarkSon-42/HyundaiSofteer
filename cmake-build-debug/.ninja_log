@@ -6,4 +6,6 @@
 7	508	1700022221518191497	CMakeFiles/HyundaiSofteer.dir/CodeTree/배열_기록/만나는_그_순간.cpp.o	e9828181446d8ca4
 7	162	1700007480114076836	CMakeFiles/HyundaiSofteer.dir/CodeTree/배열_기록/시간에_따른_위치.cpp.o	71f93048d4d427da
 7	488	1700023483245091140	CMakeFiles/HyundaiSofteer.dir/CodeTree/배열_기록/남은_횟수를_배열로_관리하기.cpp.o	b2ae4e930d33bd22
-1	41	1700023630183262950	build.ninja	4d754da1ee0f678f
+1	41	1700031162465565583	build.ninja	4d754da1ee0f678f
+0	338	1700031167796866856	CMakeFiles/HyundaiSofteer.dir/CodeTree/배열_기록/벌금은_누구에게(codetree).cpp.o	325fde596ba195a5
+0	348	1700031167806652847	CMakeFiles/HyundaiSofteer.dir/CodeTree/배열_기록/벌금은_누구에게.cpp.o	44f2968bc045e716

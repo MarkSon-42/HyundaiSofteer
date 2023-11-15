@@ -4,8 +4,6 @@
 #include <iostream>
 #include <vector>
 
-#define MAX_M = 10000
-
 using namespace std;
 
 int main() {
@@ -14,13 +12,26 @@ int main() {
 
     int answer = -1;
 
-    vector<int> students(m);
+    vector<int> penalty(n + 1, 0);
+    vector<int> students;
+
     for (int i = 0; i < m; i++) {
-        cin >> students[i];
+        int studentNumber;
+        cin >> studentNumber;
+        students.push_back(studentNumber);
     }
 
+    for (int i = 0; i < m; i++) {
+        int studentNumber = students[i];
+        penalty[studentNumber]++;
 
+        if (penalty[studentNumber] == k) {
+            answer = studentNumber;
+            break;
+        }
+    }
 
+    cout << answer;
 
     return 0;
 }
