@@ -1,17 +1,15 @@
 #include <iostream>
 #include <vector>
 
-#define MAX_N 1000
-
 using namespace std;
 
 
-int n;
-int t;
-vector<int> arr(n);
 int main() {
 
+    int n, t;
     cin >> n >> t;
+
+    vector<int> arr(n);
 
     for (int i = 0; i < n; i++) {
         cin >> arr[i];
@@ -24,7 +22,6 @@ int main() {
             currentLen++;
         else
             currentLen = 0;
-
         maxLen = max(maxLen, currentLen);
     }
 
