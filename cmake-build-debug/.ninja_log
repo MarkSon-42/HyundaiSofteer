@@ -1,8 +1,9 @@
 # ninja log v5
-0	59	1700023154810196359	build.ninja	4d754da1ee0f678f
+7	455	1700007480405780586	CMakeFiles/HyundaiSofteer.dir/CodeTree/최장_연속_부분_수열/T를_초과하는_연속_부분_수열.cpp.o	3ec432167d9ca30e
+7	507	1700021876217769189	CMakeFiles/HyundaiSofteer.dir/CodeTree/최장_연속_부분_수열/T를_초과하는_연속_부분_수열(RE).cpp.o	8957e290cfd29e20
+5	38	1700023600742139015	HyundaiSofteer	cb95bf74a567878b
+7	300	1700003847991645266	CMakeFiles/HyundaiSofteer.dir/CodeTree/최장_연속_부분_수열/연속되는_수_4.cpp.o	9860bbe38722cd37
 7	508	1700022221518191497	CMakeFiles/HyundaiSofteer.dir/CodeTree/배열_기록/만나는_그_순간.cpp.o	e9828181446d8ca4
 7	162	1700007480114076836	CMakeFiles/HyundaiSofteer.dir/CodeTree/배열_기록/시간에_따른_위치.cpp.o	71f93048d4d427da
-7	300	1700003847991645266	CMakeFiles/HyundaiSofteer.dir/CodeTree/최장_연속_부분_수열/연속되는_수_4.cpp.o	9860bbe38722cd37
-8	63	1700023012712588803	HyundaiSofteer	128b836ea825564a
-7	507	1700021876217769189	CMakeFiles/HyundaiSofteer.dir/CodeTree/최장_연속_부분_수열/T를_초과하는_연속_부분_수열(RE).cpp.o	8957e290cfd29e20
-7	455	1700007480405780586	CMakeFiles/HyundaiSofteer.dir/CodeTree/최장_연속_부분_수열/T를_초과하는_연속_부분_수열.cpp.o	3ec432167d9ca30e
+7	488	1700023483245091140	CMakeFiles/HyundaiSofteer.dir/CodeTree/배열_기록/남은_횟수를_배열로_관리하기.cpp.o	b2ae4e930d33bd22
+1	41	1700023630183262950	build.ninja	4d754da1ee0f678f

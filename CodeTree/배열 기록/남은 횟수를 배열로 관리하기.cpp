@@ -2,7 +2,6 @@
 // Created by Mac Apple on 2023/11/15.
 //
 
-#include "남은 횟수를 배열로 관리하기.h"
 
 #include <iostream>
 
@@ -14,7 +13,7 @@ int main() {
 
     for (int query = 0; query < 5; query++)
         for (int num = 0; num < 3; num++)
-            if(MeetTheCondition(query, num))
-                candy_nums[num]--;
+//            if(MeetTheCondition(query, num))
+//                candy_nums[num]--;
     return 0;
 }
