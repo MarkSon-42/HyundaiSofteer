@@ -1,11 +1,16 @@
 # ninja log v5
-7	455	1700007480405780586	CMakeFiles/HyundaiSofteer.dir/CodeTree/최장_연속_부분_수열/T를_초과하는_연속_부분_수열.cpp.o	3ec432167d9ca30e
-7	507	1700021876217769189	CMakeFiles/HyundaiSofteer.dir/CodeTree/최장_연속_부분_수열/T를_초과하는_연속_부분_수열(RE).cpp.o	8957e290cfd29e20
-5	38	1700023600742139015	HyundaiSofteer	cb95bf74a567878b
-7	300	1700003847991645266	CMakeFiles/HyundaiSofteer.dir/CodeTree/최장_연속_부분_수열/연속되는_수_4.cpp.o	9860bbe38722cd37
-7	508	1700022221518191497	CMakeFiles/HyundaiSofteer.dir/CodeTree/배열_기록/만나는_그_순간.cpp.o	e9828181446d8ca4
-7	162	1700007480114076836	CMakeFiles/HyundaiSofteer.dir/CodeTree/배열_기록/시간에_따른_위치.cpp.o	71f93048d4d427da
-7	488	1700023483245091140	CMakeFiles/HyundaiSofteer.dir/CodeTree/배열_기록/남은_횟수를_배열로_관리하기.cpp.o	b2ae4e930d33bd22
-1	41	1700031300853355302	build.ninja	4d754da1ee0f678f
-0	338	1700031167796866856	CMakeFiles/HyundaiSofteer.dir/CodeTree/배열_기록/벌금은_누구에게(codetree).cpp.o	325fde596ba195a5
+0	447	1700034787448360521	CMakeFiles/HyundaiSofteer.dir/CodeTree/배열_기록/선두를_지켜라.cpp.o	4931593204b54ada
 0	348	1700031167806652847	CMakeFiles/HyundaiSofteer.dir/CodeTree/배열_기록/벌금은_누구에게.cpp.o	44f2968bc045e716
+8	430	1700034968861401076	CMakeFiles/HyundaiSofteer.dir/CodeTree/시뮬레이션_(1)/블럭쌓는_명령2.cpp.o	a7148be753a632d3
+0	338	1700031167796866856	CMakeFiles/HyundaiSofteer.dir/CodeTree/배열_기록/벌금은_누구에게(codetree).cpp.o	325fde596ba195a5
+0	46	1700036058090517292	build.ninja	4d754da1ee0f678f
+7	488	1700023483245091140	CMakeFiles/HyundaiSofteer.dir/CodeTree/배열_기록/남은_횟수를_배열로_관리하기.cpp.o	b2ae4e930d33bd22
+7	455	1700007480405780586	CMakeFiles/HyundaiSofteer.dir/CodeTree/최장_연속_부분_수열/T를_초과하는_연속_부분_수열.cpp.o	3ec432167d9ca30e
+7	162	1700007480114076836	CMakeFiles/HyundaiSofteer.dir/CodeTree/배열_기록/시간에_따른_위치.cpp.o	71f93048d4d427da
+7	508	1700022221518191497	CMakeFiles/HyundaiSofteer.dir/CodeTree/배열_기록/만나는_그_순간.cpp.o	e9828181446d8ca4
+7	300	1700003847991645266	CMakeFiles/HyundaiSofteer.dir/CodeTree/최장_연속_부분_수열/연속되는_수_4.cpp.o	9860bbe38722cd37
+0	39	1700035001456860402	HyundaiSofteer	e458c3730916c1f2
+7	507	1700021876217769189	CMakeFiles/HyundaiSofteer.dir/CodeTree/최장_연속_부분_수열/T를_초과하는_연속_부분_수열(RE).cpp.o	8957e290cfd29e20
+0	47	1700036063316389518	CMakeFiles/HyundaiSofteer.dir/CodeTree/시뮬레이션_(1)/최대로_겹치는_구간.cpp.o	f4d153068a82554b
+0	335	1700036063603997697	CMakeFiles/HyundaiSofteer.dir/CodeTree/시뮬레이션_(1)/블럭쌓는_명령2.cpp.o	a7148be753a632d3
+0	362	1700036063629810301	CMakeFiles/HyundaiSofteer.dir/BOJ/2161_카드1.cpp.o	3b6e8ead9d49b135
