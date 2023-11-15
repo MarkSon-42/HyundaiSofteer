@@ -50,8 +50,7 @@
 			"sourceIndexes" : 
 			[
 				0,
-				1,
-				2
+				1
 			]
 		}
 	],
@@ -85,8 +84,7 @@
 			"sourceIndexes" : 
 			[
 				0,
-				1,
-				2
+				1
 			]
 		}
 	],
@@ -95,19 +93,13 @@
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "CodeTree/\uc2dc\ubbac\ub808\uc774\uc158 (1)/\ube14\ub7ed\uc313\ub294 \uba85\ub8392.cpp",
+			"path" : "BOJ/1874_\uc2a4\ud0dd \uc218\uc5f4.cpp",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "CodeTree/\uc2dc\ubbac\ub808\uc774\uc158 (1)/\ucd5c\ub300\ub85c \uacb9\uce58\ub294 \uad6c\uac04.cpp",
-			"sourceGroupIndex" : 0
-		},
-		{
-			"backtrace" : 1,
-			"compileGroupIndex" : 0,
-			"path" : "BOJ/2161_\uce74\ub4dc1.cpp",
+			"path" : "BOJ/1094_\ub9c9\ub300\uae30.cpp",
 			"sourceGroupIndex" : 0
 		}
 	],

@@ -49,20 +49,14 @@ cmake_ninja_workdir = /Users/macapple/Documents/Codes/HyundaiSofteer/cmake-build
 
 build cmake_object_order_depends_target_HyundaiSofteer: phony || CMakeFiles/HyundaiSofteer.dir
 
-build CMakeFiles/HyundaiSofteer.dir/CodeTree/시뮬레이션_(1)/블럭쌓는_명령2.cpp.o: CXX_COMPILER__HyundaiSofteer_unscanned_Debug /Users/macapple/Documents/Codes/HyundaiSofteer/CodeTree/시뮬레이션$ (1)/블럭쌓는$ 명령2.cpp || cmake_object_order_depends_target_HyundaiSofteer
-  DEP_FILE = "CMakeFiles/HyundaiSofteer.dir/CodeTree/시뮬레이션_(1)/블럭쌓는_명령2.cpp.o.d"
+build CMakeFiles/HyundaiSofteer.dir/BOJ/1874_스택_수열.cpp.o: CXX_COMPILER__HyundaiSofteer_unscanned_Debug /Users/macapple/Documents/Codes/HyundaiSofteer/BOJ/1874_스택$ 수열.cpp || cmake_object_order_depends_target_HyundaiSofteer
+  DEP_FILE = CMakeFiles/HyundaiSofteer.dir/BOJ/1874_스택_수열.cpp.o.d
   FLAGS = -g -std=gnu++14 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.0.sdk -mmacosx-version-min=13.5 -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/HyundaiSofteer.dir
-  OBJECT_FILE_DIR = "CMakeFiles/HyundaiSofteer.dir/CodeTree/시뮬레이션_(1)"
+  OBJECT_FILE_DIR = CMakeFiles/HyundaiSofteer.dir/BOJ
 
-build CMakeFiles/HyundaiSofteer.dir/CodeTree/시뮬레이션_(1)/최대로_겹치는_구간.cpp.o: CXX_COMPILER__HyundaiSofteer_unscanned_Debug /Users/macapple/Documents/Codes/HyundaiSofteer/CodeTree/시뮬레이션$ (1)/최대로$ 겹치는$ 구간.cpp || cmake_object_order_depends_target_HyundaiSofteer
-  DEP_FILE = "CMakeFiles/HyundaiSofteer.dir/CodeTree/시뮬레이션_(1)/최대로_겹치는_구간.cpp.o.d"
-  FLAGS = -g -std=gnu++14 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.0.sdk -mmacosx-version-min=13.5 -fcolor-diagnostics
-  OBJECT_DIR = CMakeFiles/HyundaiSofteer.dir
-  OBJECT_FILE_DIR = "CMakeFiles/HyundaiSofteer.dir/CodeTree/시뮬레이션_(1)"
-
-build CMakeFiles/HyundaiSofteer.dir/BOJ/2161_카드1.cpp.o: CXX_COMPILER__HyundaiSofteer_unscanned_Debug /Users/macapple/Documents/Codes/HyundaiSofteer/BOJ/2161_카드1.cpp || cmake_object_order_depends_target_HyundaiSofteer
-  DEP_FILE = CMakeFiles/HyundaiSofteer.dir/BOJ/2161_카드1.cpp.o.d
+build CMakeFiles/HyundaiSofteer.dir/BOJ/1094_막대기.cpp.o: CXX_COMPILER__HyundaiSofteer_unscanned_Debug /Users/macapple/Documents/Codes/HyundaiSofteer/BOJ/1094_막대기.cpp || cmake_object_order_depends_target_HyundaiSofteer
+  DEP_FILE = CMakeFiles/HyundaiSofteer.dir/BOJ/1094_막대기.cpp.o.d
   FLAGS = -g -std=gnu++14 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.0.sdk -mmacosx-version-min=13.5 -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/HyundaiSofteer.dir
   OBJECT_FILE_DIR = CMakeFiles/HyundaiSofteer.dir/BOJ
@@ -75,7 +69,7 @@ build CMakeFiles/HyundaiSofteer.dir/BOJ/2161_카드1.cpp.o: CXX_COMPILER__Hyunda
 #############################################
 # Link the executable HyundaiSofteer
 
-build HyundaiSofteer: CXX_EXECUTABLE_LINKER__HyundaiSofteer_Debug CMakeFiles/HyundaiSofteer.dir/CodeTree/시뮬레이션_(1)/블럭쌓는_명령2.cpp.o CMakeFiles/HyundaiSofteer.dir/CodeTree/시뮬레이션_(1)/최대로_겹치는_구간.cpp.o CMakeFiles/HyundaiSofteer.dir/BOJ/2161_카드1.cpp.o
+build HyundaiSofteer: CXX_EXECUTABLE_LINKER__HyundaiSofteer_Debug CMakeFiles/HyundaiSofteer.dir/BOJ/1874_스택_수열.cpp.o CMakeFiles/HyundaiSofteer.dir/BOJ/1094_막대기.cpp.o
   FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.0.sdk -mmacosx-version-min=13.5
   OBJECT_DIR = CMakeFiles/HyundaiSofteer.dir
   POST_BUILD = :
