@@ -55,6 +55,12 @@ build CMakeFiles/HyundaiSofteer.dir/CodeTree/배열_기록/만나는_그_순간.
   OBJECT_DIR = CMakeFiles/HyundaiSofteer.dir
   OBJECT_FILE_DIR = CMakeFiles/HyundaiSofteer.dir/CodeTree/배열_기록
 
+build CMakeFiles/HyundaiSofteer.dir/CodeTree/배열_기록/남은_횟수를_배열로_관리하기.cpp.o: CXX_COMPILER__HyundaiSofteer_unscanned_Debug /Users/macapple/Documents/Codes/HyundaiSofteer/CodeTree/배열$ 기록/남은$ 횟수를$ 배열로$ 관리하기.cpp || cmake_object_order_depends_target_HyundaiSofteer
+  DEP_FILE = CMakeFiles/HyundaiSofteer.dir/CodeTree/배열_기록/남은_횟수를_배열로_관리하기.cpp.o.d
+  FLAGS = -g -std=gnu++14 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.0.sdk -mmacosx-version-min=13.5 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/HyundaiSofteer.dir
+  OBJECT_FILE_DIR = CMakeFiles/HyundaiSofteer.dir/CodeTree/배열_기록
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target HyundaiSofteer
@@ -63,7 +69,7 @@ build CMakeFiles/HyundaiSofteer.dir/CodeTree/배열_기록/만나는_그_순간.
 #############################################
 # Link the executable HyundaiSofteer
 
-build HyundaiSofteer: CXX_EXECUTABLE_LINKER__HyundaiSofteer_Debug CMakeFiles/HyundaiSofteer.dir/CodeTree/배열_기록/만나는_그_순간.cpp.o
+build HyundaiSofteer: CXX_EXECUTABLE_LINKER__HyundaiSofteer_Debug CMakeFiles/HyundaiSofteer.dir/CodeTree/배열_기록/만나는_그_순간.cpp.o CMakeFiles/HyundaiSofteer.dir/CodeTree/배열_기록/남은_횟수를_배열로_관리하기.cpp.o
   FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.0.sdk -mmacosx-version-min=13.5
   OBJECT_DIR = CMakeFiles/HyundaiSofteer.dir
   POST_BUILD = :
